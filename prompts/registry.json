@@ -1,1 +1,6 @@
-{}
+{
+  "music_prompt_builder": {
+    "version": "v1",
+    "template": "这是一首{mood}的{genre}歌曲。歌曲由{vocal}演绎，唱腔以{delivery}为主，并通过{vocal_fx}塑造辨识度。副歌围绕“{hook_line}”反复强化记忆点，空间上使用{reverb}混响与{space_desc}声场。在{bpm} BPM下，编曲以{drums}与{bass}驱动，加入{rhythm}增强律动，并用{pad}营造背景，点缀{transitions}作为过渡。适合{use_cases}收听，带来{final_emotion}的情绪落点。"
+  }
+}
