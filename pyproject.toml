@@ -1,0 +1,17 @@
+[project]
+name = "story-music-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115.0",
+    "pydantic>=2.8.2",
+    "pydantic-settings>=2.4.0",
+    "python-dotenv>=1.0.1",
+    "redis>=5.0.8",
+    "requests>=2.32.3",
+    "rq>=1.21.0",
+    "sqlalchemy>=2.0.32",
+    "uvicorn[standard]>=0.30.6",
+]
